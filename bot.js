@@ -5,7 +5,7 @@ const client3 = new Discord.Client();
 const client4 = new Discord.Client();
 const client5 = new Discord.Client();
 const myid = ['487340960058179604'];
-const prefix = ['-'];
+const prefix = ['!'];
 
 client.on('ready', () => {
    console.log(`----------------`);
